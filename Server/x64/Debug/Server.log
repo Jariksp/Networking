@@ -1,0 +1,3 @@
+﻿  server.cpp
+D:\Storage_VS_2022\NetworkWind\Server\server.cpp(63,26): warning C4018: '<': signed/unsigned mismatch
+  Server.vcxproj -> D:\Storage_VS_2022\NetworkWind\x64\Debug\Server.exe
